@@ -1,0 +1,8 @@
+---
+lockfile_version: 1
+depends:
+- name: inspec_resource_hab_pkg_deps
+  resolved_source:
+    url: https://github.com/ericcalabretta/inspec_resource_hab_pkg_deps/archive/0.1.tar.gz
+    sha256: 660bf928c576ece2fc5c24e0bb571ebba8bf0649b28b2df5c93add956cf0bc7d
+  version_constraints: []
